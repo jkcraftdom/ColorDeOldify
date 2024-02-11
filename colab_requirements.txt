@@ -1,7 +1,7 @@
-fastai==1.0.51
-tensorboardX==1.6
+fastai
+tensorboardX
 ffmpeg
-ffmpeg-python==0.1.17
+ffmpeg-python
 youtube-dl>=2019.4.17
 jupyter-client>=8.0.0,<9.0.0
 pyzmq>=25.0.0,<26.0.0
